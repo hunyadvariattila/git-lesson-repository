@@ -1,0 +1,1 @@
+A következő parancs után törülte a tasks.txt tartalmát cat tasks.txt | uniq | sort > tasks.txt
